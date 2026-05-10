@@ -6,6 +6,35 @@ Today I received my LoRa modules (SX1278 433MHz LoRa Module v4.0) from eBay.
 I was very excited to start working on my float project.
 I previously bought my receiver and adapter a few weeks before.
 
+Parts:
+1. 1x Arduino Uno R3
+2. 1x Arduino Duemilanove (Can be another board)
+3. 16x Jumper Wires
+4. 2x [LoRa Modules](https://www.ebay.com/itm/116899013863)
+5. 2x [Antennas](https://www.ebay.com/itm/287003416768?var=589046837530)
+6. 2x [U.fl IPX to SMA Remale Adapters](https://www.ebay.com/itm/372806488321?var=641627670983)
+
+
+LoRa Modules:
+1. Count: 2
+2. Link: [LoRa Modules](https://www.ebay.com/itm/116899013863)
+3. Unit Price: $5
+4. Shipping Price: $5.8
+5. Total Price: ~$15.8
+
+Antennas:
+1. Count: 2
+2. Link: [Antennas](https://www.ebay.com/itm/287003416768?var=589046837530)
+3. Unit Price: $4.3
+4. Total Price: ~$4.3
+
+U.fl IPX to SMA Remale Adapters:
+1. Count: 2
+2. Link: [U.fl IPX to SMA Remale Adapters](https://www.ebay.com/itm/372806488321?var=641627670983)
+3. Unit Price: $5.34
+4. Shipping Price: $2.99
+5. Total Price: ~$13.67
+
 I connected my 2 LoRa modules to 2 Arduinos. I followed this tutorial: [Interfacing SX1278 (Ra-02) LoRa Module with Arduino](https://circuitdigest.com/microcontroller-projects/arduino-lora-sx1278-interfacing-tutorial)
 
 | LoRa Module Pin | Arduino Uno Pin | Arduino Duemilanove Pin |
