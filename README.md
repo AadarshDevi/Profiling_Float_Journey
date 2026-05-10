@@ -48,6 +48,10 @@ I connected my 2 LoRa modules to 2 Arduinos. I followed this tutorial: [Interfac
 |GND|GND|GND|
 |3V3|3.3V|3.3V|
 
+| Arduino Uno R3  | Arduino Duemilanove  |
+|:-:|:-:|
+| | |
+
 I opened the Arduino IDE and downloaded the _**LoRa library by Sandeep Mistry**_ and opened the _**LoRaSender**_ and _**LoRaReceiver**_ example sketches. I uploaded both and checked out how they worked.
 
 After fiddling around with the example sketches, I created my own **_LoRa_Sender_v1_** and _**LoRa_Receiver_v1**_ sketches. The data received was gibberish and I used Google Gemini to debug the issue.
