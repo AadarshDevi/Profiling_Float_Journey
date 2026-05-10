@@ -10,11 +10,11 @@ I connected my 2 LoRa modules to 2 Arduinos. I followed this tutorial: [Interfac
 
 | LoRa Module Pin | Arduino Uno Pin | Arduino Duemilanove Pin |
 |:---------------:|:---------------:|:-----------------------:|
-|MISO||Pin 12|
-|DIOO|||
-|SCK||Pin 13|
-|MOSI|||
-|RST|||
-|NSS|||
-|GND||GND|
-|3V3||3.3V|
+|MISO|Pin 12|Pin 12|
+|DIOO|Pin 2|Pin 2|
+|SCK|Pin 13|Pin 13|
+|MOSI|Pin 11|Pin 11|
+|RST|Pin 9|Pin 9|
+|NSS|Pin 10|Pin 10|
+|GND|GND|GND|
+|3V3|3.3V|3.3V|
