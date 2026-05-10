@@ -48,9 +48,9 @@ I connected my 2 LoRa modules to 2 Arduinos. I followed this tutorial: [Interfac
 |GND|GND|GND|
 |3V3|3.3V|3.3V|
 
-| Arduino Uno R3  | Arduino Duemilanove  |
+| Arduino Duemilanove  |  Arduino Uno R3 |
 |:-:|:-:|
-| ![Image of Aruino Duemilanove to LoRa module connection](https://github.com/AadarshDevi/Profiling_Float_Journey/blob/main/may_9_2026/PXL_20260510_050831077.MP.jpg)| |
+| ![Image of Aruino Duemilanove to LoRa module connection](https://github.com/AadarshDevi/Profiling_Float_Journey/blob/main/may_9_2026/PXL_20260510_050831077.MP.jpg)| ![Image of Aruino Uno R3 to LoRa module connection](https://github.com/AadarshDevi/Profiling_Float_Journey/blob/main/may_9_2026/PXL_20260510_050900585.MP.jpg) |
 
 I opened the Arduino IDE and downloaded the _**LoRa library by Sandeep Mistry**_ and opened the _**LoRaSender**_ and _**LoRaReceiver**_ example sketches. I uploaded both and checked out how they worked.
 
